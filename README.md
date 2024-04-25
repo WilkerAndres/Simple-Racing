@@ -25,5 +25,5 @@ Level gameplay is based on Ecs. Level progress is controlled by the state machin
  - Builds configuration. 
 
 ## Releases
-See [here](https://github.com/WilkerAndres/Simple-Racing).
+See [here](https://github.com/JorgePerezGarcia/My-Runner).
 
